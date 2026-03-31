@@ -12,8 +12,5 @@ This project analyzes 5 months of sales data from Peshawar and Islamabad.
 - Peshawar shows stable growth
 - Houses generate more revenue
 
-## 📷 Dashboard
-![Screenshot 2026-03-31 123640](Screenshot 2026-03-31 123640.png)
-
 ## 🚀 Author
 Nasrat Abid
